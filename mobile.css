@@ -1,0 +1,152 @@
+@media screen and (max-width: 1200px) {
+  .container {
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 1088px) {
+	header .topbar .jewelry_menubar .nav_menu .navbar ul li a {
+		margin: 14px;
+	}
+  .dance_events .dance_event1 .dance_event_details .date_event h4 {
+    font-size: 20px;
+  }
+  .dance_studio .dance_studio_details .carousel-control.left,
+  .dance_studio .dance_studio_details .carousel-control.right {
+    display: none;
+  }
+  .skTeam_details .skTeam_img_details {
+		border-bottom: 10px solid #000;
+		border-left: 10px solid #000;
+		border-top: 50px solid #e62646;
+		border-right: 30px solid #e62646;
+		border-top-right-radius: 50%;
+		color: #ffffff;
+	}
+	.skTeam_details .skTeam_img_details h2,
+	.skTeam_details .skTeam_img_details h4,
+	.skTeam_details .skTeam_img_details a {
+		color: #ffffff;
+	}
+	.skTeam_details img {
+		border-bottom-left-radius: 50%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	#inner_slider_data {
+    position: unset;
+  }
+  header .dance_slider_menu .topbar .dance_logo {
+    text-align: center;
+    float: none;
+  }
+  .dance_type .dance_type_skin .dance_type_details .dance_type_overlay p {
+    line-height: 18px;
+    padding: 10px 5px 0px 5px;
+    margin: 0px;
+  }
+  .dance_feature .dance_feature_details {
+    text-align: center;
+    padding: 0 15px;
+  }
+  .dance_feature .dance_feature_img_in {
+    display: block;
+  }
+  .dance_feature .dance_feature_img {
+    display: none;
+  }
+  .dance_studio .dance_studio_details {
+    display: block;
+  }
+  .dance_studio .dance_studio_details p {
+    padding: 50px 0;
+  }
+  .dance_events .dance_event1 .dance_event_details {
+    text-align: center;
+    padding: 5px 0 5px 0;
+  }
+  .dance_events .dance_event1 .dance_event_details .events_details_in h5 {
+    padding: 5px 0 5px 0;
+  }
+  .dance_events .dance_event1 .dance_event_details .events_details_in p {
+    padding: 5px 0 5px 0;
+  }
+  .dance_events .dance_event1 .dance_event_details .events_details_in h4 {
+    padding: 5px 0 5px 0;
+  }
+  .dance_events .dance_event1 .dance_event_details .events_details_in ul {
+    padding-left: 0px;
+    margin: 0px;
+  }
+  .dance_events .dance_event1 .dance_event_details .events_details_in ul a {
+    font-family: "Roboto";
+    color: #000000;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 0px 6px 0px 0px;
+    margin: 0px;
+    display: inline-block;
+  }
+  .dance_events .dance_event1 .dance_event_details .events_details_in ul a :hover {
+    color: #e62646;
+    transform: scale(1.1);
+  }
+  .dance_events .dance_event1 .events_trigle {
+    bottom: -38px;
+  }
+  .dance_events .dance_events_btn {
+    padding: 30px 0 40px 0;
+  }
+  .dance_events .dance_events_btn a {
+    font-family: "Raleway";
+    color: #fefefe;
+    background-color: #e62646;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 35px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    letter-spacing: 0.3px;
+    border: 0px;
+    margin: 0px;
+  }
+  .dance_events .dance_events_btn a:hover {
+    font-family: "Raleway";
+    color: #000000;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 35px;
+  }
+  .dance_footer {
+    text-align: center;
+  }
+  .dance_footer h4 {
+    padding: 10px 0;
+  }
+  .copy_right {
+    text-align: center;
+  }
+  .copy_right .copy_social .copy_right_social ul {
+    text-align: center;
+  }
+  .skEvent_pro_list {
+    padding: 40px 40px 0 40px;
+  }
+  .skEvent_data a {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .skDance_classes_list span {
+    font-size: 25px;
+    line-height: 25px;
+  }
+  .skBlog_img::after {
+    content: none;
+  }
+}
+
+
